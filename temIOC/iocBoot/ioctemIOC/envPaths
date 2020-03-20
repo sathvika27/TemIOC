@@ -1,0 +1,3 @@
+epicsEnvSet("IOC","ioctemIOC")
+epicsEnvSet("TOP","/home/epics/repos/temIOC")
+epicsEnvSet("EPICS_BASE","/usr/local/epics/base")
